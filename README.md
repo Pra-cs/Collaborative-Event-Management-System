@@ -1,4 +1,4 @@
-# Event Collaboration API
+# Collaborative Event Management System - Backend
 
 A FastAPI-based application for managing events, sharing them with collaborators, maintaining version history, and tracking changes. The application uses SQLite as the database and provides endpoints for user authentication, event management, collaboration, version history, and changelog.
 
